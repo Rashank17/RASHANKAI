@@ -1,2 +1,2 @@
 flask
-serpapi
+google-search-results
