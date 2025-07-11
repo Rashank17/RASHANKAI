@@ -1,6 +1,6 @@
 
 from flask import Flask, request, jsonify, send_from_directory
-from serpapi import GoogleSearch
+from google_search_results import GoogleSearch
 
 app = Flask(__name__)
 
